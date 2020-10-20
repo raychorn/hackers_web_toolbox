@@ -4,6 +4,7 @@
 
 - [About](#about)
 - [Purpose](#purpose)
+- [Tools](#tooling)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Contributing](../CONTRIBUTING.md)
@@ -24,6 +25,26 @@ This little gem has several parts.  Angular 11 GUI.  Python + GO with some Rust,
 
 (5). Single Page Applications might fall into the category of sites for which this toolbox may prove useful.  I have been told by certain web developers that there is no need to use sessions for SPAs because... well who knows but that conversation has kick-started my desire to prove whether that is true or false.
 
+## Tooling <a name = "tooling"></a>
+
+### GUI - Angular 11 ???
+
+### <a href="https://ngx-rocket.com/home" terget="_top">NGX Rocket</a>
+
+It seems NGX Rocket might be working???
+
+found 2 vulnerabilities (1 low, 1 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+All done! Get started with these tasks:
+- $ npm start: start dev server with live reload on http://localhost:4200 (npm start --port 8080)
+- $ npm run build: build web app for production
+- $ npm test: run unit tests in watch mode for TDD
+- $ npm run test:ci: lint code and run units tests with coverage
+- $ npm run e2e: launch e2e tests
+- $ npm run docs: show docs and coding guides
+- $ npm run prettier: format your code automatically
+- 
 ## Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -58,4 +79,4 @@ End with an example of getting some data out of the system or using it for a lit
 
 Add notes about how to use the system.
 
-(c). Copyright 2008-2020, Ray C Horn, All RIghts Reserved.
+(c). Copyright 2008-2020, Ray C Horn, All Rights Reserved.
